@@ -1,0 +1,7 @@
+export const FIREBASE = {
+  API_KEY: "AIzaSyB1yV6GVAiD3AwU72ataU2v6VtPFPpxQiI",
+  PROJECT_ID: "nuxt-24e27",
+  SENDER_ID: "29563800007",
+  APP_ID: "1:29563800007:web:bda09edec37b7a11",
+  DATABASE_NAME: "nuxt-24e27"
+};
